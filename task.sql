@@ -16,4 +16,4 @@ VALUES (1,1,1);
 
 UPDATE Products SET WareHouseAmount = WareHouseAmount -1 WHERE ID = 1;
 
-COMMIT; 
+COMMIT;
